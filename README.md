@@ -3,7 +3,8 @@
 Codex skill for second-round technical interview preparation.
 
 It helps with:
-- first-round review and second-round focus prediction
+- first-round LeetCode/coding interview review and second-round focus prediction
+- target-company and similar-role LeetCode interview question discovery
 - high-probability deep technical questions
 - advanced answer framing
 - mock second-round interviews
