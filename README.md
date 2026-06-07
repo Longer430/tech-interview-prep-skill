@@ -1,10 +1,11 @@
 # Tech Interview Prep Skill
 
-Codex skill for second-round technical interview preparation.
+Codex skill for first-round LeetCode/coding interview preparation and second-round technical interview preparation.
 
 It helps with:
-- first-round LeetCode/coding interview review and second-round focus prediction
 - target-company and similar-role LeetCode interview question discovery
+- first-round LeetCode/coding practice planning
+- first-round review and second-round focus prediction
 - high-probability deep technical questions
 - advanced answer framing
 - mock second-round interviews
